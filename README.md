@@ -52,8 +52,16 @@ npm test
 ```
 
 ## Screenshots
+<img width="1366" height="768" alt="1" src="https://github.com/user-attachments/assets/161a3f68-ac3b-4f2a-a1c9-0a06754870df" />
 
-*(Screenshots would be placed here in a real repo)*
+<img width="1366" height="768" alt="2" src="https://github.com/user-attachments/assets/9d629efb-47b8-409a-b791-5e2f8cf41c68" />
+
+<img width="1366" height="768" alt="3" src="https://github.com/user-attachments/assets/f85707c9-448b-4b6c-a37f-539a09d8ef06" />
+
+<img width="1366" height="768" alt="4" src="https://github.com/user-attachments/assets/ce0844f9-2c53-487b-889b-b16304039c54" />
+
+<img width="1366" height="768" alt="5" src="https://github.com/user-attachments/assets/e1d0da69-a490-49f7-b204-a7bf6f506a16" />
+
 
 ## API Endpoints
 
